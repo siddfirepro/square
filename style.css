@@ -1,0 +1,27 @@
+.heading{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+box-shadow: 5px 5px 5px whitesmoke ;
+}
+.mai{
+    font-size:bold ;
+    color: whitesmoke;
+}
+body{
+    background-color: lime;
+}
+.footer{
+    position: fixed;
+    color: yellow;
+    bottom:0;
+    width: 100%;
+    background-color: turquoise;
+    line-height: 3;
+    text-align: center;
+}
+canvas{
+    border: 5px solid whitesmoke ;
+    border-radius: 20px;
+    box-shadow:5px 5px 5px wheat;
+}
